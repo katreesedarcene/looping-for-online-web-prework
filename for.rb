@@ -4,7 +4,7 @@ def using_for
 	for checklist in do
 	
 	puts "Wingardium Leviosa"
- end 	
+ 	
 end
 
 
